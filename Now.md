@@ -1,13 +1,11 @@
-# What Buster is doing now
+# What Muneer is doing now
 
-*Last updated: October 25th, 2015.*
+*Last updated: Septmeber 12, 2016.*
 
-This page is accessible from [busterbenson.com/now](http://busterbenson.com/now), and was inspired by [this post by Derek Sivers](https://sivers.org/nowff).
+This page was inspired by [this post by Derek Sivers](https://sivers.org/nowff).
 
 Here's what I'm doing now:
 
-* Living in Berkeley, CA, with Kellianne and Niko.
-* Working at [Slack](http://slack.com) as a product manager, building the platform.
-* On the board of directors at [NaNoWriMo](http://nanowrimo.org).
-* An advisor to [Coach.me](http://coach.me), a platform for self-improvement.
-* Helping Kellianne keep [750 Words](http://750words.com) alive.
+* Living in Olathe, KS, with Jessicca, Betty, Saafir, and Monkey.
+* Working at an undisclosed company (if I disclosed the name, I'd have to give them access to my social media profile. Yeah, no) doing data analysis for now.
+* Studying and trying to apply Stoic philosophy to my life.
