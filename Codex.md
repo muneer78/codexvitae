@@ -2,7 +2,7 @@
 
 ## Instructions
 
-**If you are Buster:**
+**If you are Muneer:**
 
 1. As often as you can: re-read your [Type 3 beliefs](#type-3-opinions) (opinions).
 2. At the beginning of every month, read the whole thing and make any necessary edits.
