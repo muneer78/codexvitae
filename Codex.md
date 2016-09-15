@@ -1,6 +1,6 @@
 # Codex Vitae
 
-### How to Use This Codex
+## How to Use This Codex
 
 If you are Muneer:
 
@@ -24,10 +24,32 @@ Beliefs about beliefs.
 * Beware of anyone who is totally convinced that their beliefs are correct.
 
 ### Principles
-
 Fundamentals that guide my life.
 
-* Never stop learning new things
+#### Personal
+* Never stop learning new things.
+
+#### Society
+* There needs to be an adequate safety net to help people who are experiencing tough times.
+  * This includes not cutting off benefits to people when they begin working again, but do not yet have the resources to have minimal financial security.
+  * There should be an incentive for people to work.
+    * This means that we need to do things like give retraining to people in dying industries.
+    * It does not mean increasingly draconian cuts to public assistance.
+* We need to encourage people to acquire skills that will keep them working.
+  * Sinecures should be eliminated wherever they are found.
+  * 
+* We need to reduce the amount of no-value adding bureaucracy.
+  * Regulations need to be put up for periodic review in front of a citizen committee that contains as much diversity of viewpoints as possible.
+  * The law needs to be simplified to a level where it can be understood by an educated layperson 
+* There needs to be a minimum expected level of competence for adults.
+  * 
+
+#### Politics
+* Elections should be publicly funded in full.
+  * There should also be a cap on how much can be spent on elections. The amounts can increase as the level of the election changes. For example, a 
+* 
+
+####
 
 ##Personal Canon
 
