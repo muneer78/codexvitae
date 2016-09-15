@@ -30,6 +30,7 @@ Fundamentals that guide my life.
 * Never stop learning new things.
 
 #### Society
+* There should be no group or insitution that is absolutely insulated from criticism.
 * There needs to be an adequate safety net to help people who are experiencing tough times.
   * This includes not cutting off benefits to people when they begin working again, but do not yet have the resources to have minimal financial security.
   * There should be an incentive for people to work.
@@ -42,14 +43,10 @@ Fundamentals that guide my life.
   * Regulations need to be put up for periodic review in front of a citizen committee that contains as much diversity of viewpoints as possible.
   * The law needs to be simplified to a level where it can be understood by an educated layperson 
 * There needs to be a minimum expected level of competence for adults.
-  * 
 
 #### Politics
 * Elections should be publicly funded in full.
-  * There should also be a cap on how much can be spent on elections. The amounts can increase as the level of the election changes. For example, a 
-* 
-
-####
+  * There should also be a cap on how much can be spent on elections. The amounts can increase as the level of the election changes. For example, a person running for a county office should not be spending at the level of someone running for state office.
 
 ##Personal Canon
 
