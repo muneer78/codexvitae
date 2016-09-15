@@ -1,4 +1,4 @@
-#### Codex Vitae
+# Codex Vitae
 
 ### How to Use This Codex
 
