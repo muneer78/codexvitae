@@ -19,9 +19,15 @@ If you are not Muneer:
 
 Beliefs about beliefs.
 
+* Perceptions color beliefs in a way that prevents humans from having identical beliefs.
+* No belief is absolutely correct.
+* Beware of anyone who is totally convinced that their beliefs are correct.
+
 ### Principles
 
 Fundamentals that guide my life.
+
+* Never stop learning new things
 
 ##Personal Canon
 
