@@ -56,6 +56,7 @@ Things that have changed my life
 
 ### Articles
 * Adam Davidson, "Out of Iraq", Harper's, Feb. 2005.
+* Tim Urban -[http://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html][How and Why Space X Will Colonize Mars]
 
 ### Movies
 * The Reluctant Fundamentalist
