@@ -48,7 +48,7 @@ Fundamentals that guide my life.
 * Elections should be publicly funded in full.
   * There should also be a cap on how much can be spent on elections. The amounts can increase as the level of the election changes. For example, a person running for a county office should not be spending at the level of someone running for state office.
 
-##Personal Canon
+## Personal Canon
 Things that have changed my life
 
 ### Books
